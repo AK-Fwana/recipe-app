@@ -47,4 +47,4 @@ Here's a quick walkthrough of the app's main functionalities:
 3. **Search Function**: Use the search bar to filter recipes by name or dietary labels, allowing for fast and convenient browsing.
 
 ![Project Demo]() <!-- Replace with a link to your app's screenshot or GIF -->
-
+https://github.com/AK-Fwana/recipe-app/blob/main/src/Recipe%20App.JPG
